@@ -1,0 +1,9 @@
+C:\Users\bcs2\Desktop\sc9911\RAD\W7\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\bcs2\Desktop\sc9911\RAD\W7\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\bcs2\Desktop\sc9911\RAD\W7\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\bcs2\Desktop\sc9911\RAD\W7\NotePad\NotePad\obj\Debug\NotePad.csprojResolveAssemblyReference.cache
+C:\Users\bcs2\Desktop\sc9911\RAD\W7\NotePad\NotePad\obj\Debug\NotePad.Ni.resources
+C:\Users\bcs2\Desktop\sc9911\RAD\W7\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+C:\Users\bcs2\Desktop\sc9911\RAD\W7\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.Cache
+C:\Users\bcs2\Desktop\sc9911\RAD\W7\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\bcs2\Desktop\sc9911\RAD\W7\NotePad\NotePad\obj\Debug\NotePad.pdb
